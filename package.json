@@ -1,5 +1,5 @@
 {
-  "name": "upper-caser",
+  "name": "uppercase-converter",
   "version": "1.0.0",
   "description": "turn text to upper case",
   "main": "index.js",
