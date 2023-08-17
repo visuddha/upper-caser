@@ -1,0 +1,27 @@
+{
+  "name": "upper-caser",
+  "version": "1.0.0",
+  "description": "turn text to upper case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Visuddha Karunaratne",
+  "license": "ISC",
+  "keywords": [
+    "uppercase",
+    "Upper",
+    "case"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visuddha/upper-caser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/visuddha/upper-caser/issues"
+  },
+  "homepage": "https://github.com/visuddha/upper-caser#readme",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
